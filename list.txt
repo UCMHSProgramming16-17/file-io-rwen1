@@ -1,0 +1,10 @@
+1. hey
+2. hi
+3. hello
+4. waddup
+5. howzit
+6. apple
+7. banana
+8. cat
+9. dog
+10. elephant
